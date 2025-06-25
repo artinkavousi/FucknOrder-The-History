@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #111;
+  color: #eee;
+}
+.app-container {
+  display: flex;
+  height: 100vh;
+}

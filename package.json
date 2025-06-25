@@ -1,0 +1,21 @@
+{
+  "name": "fucknorder-history",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.3",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "zustand": "^4.5.2",
+    "@react-three/fiber": "^8.15.9",
+    "@react-three/drei": "^9.88.7",
+    "gsap": "^3.12.5",
+    "framer-motion": "^10.18.0",
+    "@react-spring/web": "^9.7.2"
+  }
+}
