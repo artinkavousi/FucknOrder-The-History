@@ -8,3 +8,33 @@ body {
   display: flex;
   height: 100vh;
 }
+.chat-panel {
+  flex: 2;
+  padding: 1rem;
+}
+.timeline-rail {
+  flex: 1;
+  padding: 1rem;
+  border-left: 1px solid #444;
+}
+.timeline-rail ul {
+  list-style: none;
+  padding: 0;
+}
+.timeline-rail li {
+  padding: 0.25rem 0;
+}
+.timeline-rail li.active {
+  color: #0f0;
+}
+.timeline-rail .shape {
+  margin-left: 0.25rem;
+}
+.citation-panel {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 0.5rem;
+  max-width: 300px;
+}

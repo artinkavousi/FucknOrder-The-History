@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "id": "ajax-1953-coup",
+    "dateIso": "1953-08-19",
+    "title": "CIA/MI6 Operation Ajax",
+    "summary": "US and UK orchestrate coup overthrowing Iran's PM Mossadegh.",
+    "importance": 1,
+    "gemShape": "pentagon",
+    "sceneRef": "ajax-1953-coup",
+    "citations": [
+      {"url": "https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat", "label": "Wikipedia"}
+    ]
+  },
+  {
+    "id": "jcpoa-sign",
+    "dateIso": "2015-07-14",
+    "title": "JCPOA Nuclear Deal Signed",
+    "summary": "Iran and world powers sign nuclear accord after years of negotiation.",
+    "importance": 1,
+    "gemShape": "star",
+    "sceneRef": "jcpoa-sign",
+    "citations": [
+      {"url": "https://en.wikipedia.org/wiki/Joint_Comprehensive_Plan_of_Action", "label": "Wikipedia"}
+    ]
+  },
+  {
+    "id": "soleimani-drone",
+    "dateIso": "2020-01-03",
+    "title": "Soleimani Drone Strike",
+    "summary": "US drone strike kills Iranian General Qasem Soleimani near Baghdad.",
+    "importance": 1,
+    "gemShape": "star",
+    "sceneRef": "soleimani-drone",
+    "citations": [
+      {"url": "https://en.wikipedia.org/wiki/Qasem_Soleimani", "label": "Wikipedia"}
+    ]
+  },
+  {
+    "id": "mahsa-amini",
+    "dateIso": "2022-09-16",
+    "title": "Mahsa Amini Protests",
+    "summary": "Death of Mahsa Amini sparks nationwide protests in Iran.",
+    "importance": 1,
+    "gemShape": "star",
+    "sceneRef": "mahsa-amini",
+    "citations": [
+      {"url": "https://en.wikipedia.org/wiki/Mahsa_Amini", "label": "Wikipedia"}
+    ]
+  }
+]
