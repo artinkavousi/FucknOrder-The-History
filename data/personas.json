@@ -1,1 +1,75 @@
-[]
+[
+  {
+    "displayName": "Uncle\u00a0Slam",
+    "faction": "USA",
+    "archetype": "Loud\u2011mouthed hyper\u2011power salesman",
+    "look": "Denim bomber, bald\u2011eagle shoulder pad, foam finger shaped like missile",
+    "persona": "Swaggering, sell\u2011first\u2011ask\u2011later superpower hungry for likes",
+    "catchPhrases": "\u201cFreedom tastes like\u00a0\u2026\u201d, \u201cHold my cold brew!\u201d, \u201cMission accomplished\u2014again!\u201d",
+    "runningGag": "Announces victory banners premature \u2014 banner literally explodes behind him",
+    "entranceCue": "sfx_eagle_screech",
+    "stickerIds": "uncle\u2011slam_woo.webp`, `uncle\u2011slam_thumbsup.webp`, `uncle\u2011slam_facepalm.webp",
+    "memeOrigin": "Bush \u201803 carrier speech + freedom\u2011fries era",
+    "powerLevel": "8000",
+    "uiColor": "#2459FF",
+    "themeSong": "cue_guitar_anthem_Fmaj",
+    "voiceActor": "ElevenLabs \u201cAdam\u201d (tone +12\u00a0% energy)",
+    "id": "uncle\u2011slam"
+  },
+  {
+    "displayName": "supreme\u2011beardo",
+    "id": "supreme\u2011beardo"
+  },
+  {
+    "displayName": "start\u2011up\u2011snark",
+    "id": "start\u2011up\u2011snark"
+  },
+  {
+    "displayName": "hezzy",
+    "id": "hezzy"
+  },
+  {
+    "displayName": "sassy\u2011saud",
+    "id": "sassy\u2011saud"
+  },
+  {
+    "displayName": "wolf\u2011warrior\u2011wen",
+    "id": "wolf\u2011warrior\u2011wen"
+  },
+  {
+    "displayName": "comrade\u2011vlad",
+    "id": "comrade\u2011vlad"
+  },
+  {
+    "displayName": "stiff\u2011lip\u2011stu",
+    "id": "stiff\u2011lip\u2011stu"
+  },
+  {
+    "displayName": "persian\u2011populace",
+    "id": "persian\u2011populace"
+  },
+  {
+    "displayName": "ban\u2011ki\u2011zzz",
+    "id": "ban\u2011ki\u2011zzz"
+  },
+  {
+    "displayName": "imf\u2011ghost",
+    "id": "imf\u2011ghost"
+  },
+  {
+    "displayName": "madame\u2011ahma\u2011drag\u2011inejad",
+    "id": "madame\u2011ahma\u2011drag\u2011inejad"
+  },
+  {
+    "displayName": "historian\u2011hana  *(meta\u2011narrator)*",
+    "id": "historian\u2011hana"
+  },
+  {
+    "displayName": "designer\u2011dev  *(meta\u2011avatar)*",
+    "id": "designer\u2011dev"
+  },
+  {
+    "displayName": "mobile\u2011marco  *(meta\u2011avatar)*",
+    "id": "mobile\u2011marco"
+  }
+]

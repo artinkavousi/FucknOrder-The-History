@@ -1,50 +1,467 @@
 [
   {
-    "id": "ajax-1953-coup",
-    "dateIso": "1953-08-19",
-    "title": "CIA/MI6 Operation Ajax",
-    "summary": "US and UK orchestrate coup overthrowing Iran's PM Mossadegh.",
+    "id": "cyrus-charter",
+    "dateIso": "-0539-10-12",
+    "title": "Cyrus Issues Human\u2011Rights Charter",
+    "summary": "Cyrus Issues Human\u2011Rights Charter",
     "importance": 1,
-    "gemShape": "pentagon",
-    "sceneRef": "ajax-1953-coup",
+    "gemShape": "star",
+    "sceneRef": "cyrus-charter",
     "citations": [
-      {"url": "https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat", "label": "Wikipedia"}
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "passover-persian-plot-twist",
+    "dateIso": "-0537",
+    "title": "Judeans Return \u2014 Plot Twist",
+    "summary": "Judeans Return \u2014 Plot Twist",
+    "importance": 0,
+    "gemShape": "heptagon",
+    "sceneRef": "passover-persian-plot-twist",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "alexander-burns-persepolis",
+    "dateIso": "-0330",
+    "title": "Greek House\u2011Party Gone Wrong",
+    "summary": "Greek House\u2011Party Gone Wrong",
+    "importance": 0,
+    "gemShape": "pentagon",
+    "sceneRef": "alexander-burns-persepolis",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "sassanid-chess-import",
+    "dateIso": "00500",
+    "title": "Persians Invent Checkmate Meme",
+    "summary": "Persians Invent Checkmate Meme",
+    "importance": 0,
+    "gemShape": "heptagon",
+    "sceneRef": "sassanid-chess-import",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "battle-of-qadisiyyah",
+    "dateIso": "00636",
+    "title": "Arabs Defeat Sassanids",
+    "summary": "Arabs Defeat Sassanids",
+    "importance": 0,
+    "gemShape": "pentagon",
+    "sceneRef": "battle-of-qadisiyyah",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "anglo-persian-oil-deal",
+    "dateIso": "1901-05-28",
+    "title": "Iran Sells Oil for 16\u00a0% Cut",
+    "summary": "Iran Sells Oil for 16\u00a0% Cut",
+    "importance": 1,
+    "gemShape": "star",
+    "sceneRef": "anglo-persian-oil-deal",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "constitutional-revolution",
+    "dateIso": "1906-08-06",
+    "title": "Persia Tries Democracy\u00a0\u03b2",
+    "summary": "Persia Tries Democracy\u00a0\u03b2",
+    "importance": 0,
+    "gemShape": "pentagon",
+    "sceneRef": "constitutional-revolution",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "reza-shah-rise",
+    "dateIso": "1925-12-15",
+    "title": "Coup with Cossack Swag",
+    "summary": "Coup with Cossack Swag",
+    "importance": 0,
+    "gemShape": "heptagon",
+    "sceneRef": "reza-shah-rise",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "ww2-allied-occupation",
+    "dateIso": "1941-08-29",
+    "title": "UK/USSR Occupy Iran",
+    "summary": "UK/USSR Occupy Iran",
+    "importance": 0,
+    "gemShape": "pentagon",
+    "sceneRef": "ww2-allied-occupation",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "tehran-conference-cat-meme",
+    "dateIso": "1943-12-01",
+    "title": "Big\u00a0Three Cat Photo",
+    "summary": "Big\u00a0Three Cat Photo",
+    "importance": 0,
+    "gemShape": "heptagon",
+    "sceneRef": "tehran-conference-cat-meme",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "iran-oil-nationalised",
+    "dateIso": "1951-03-15",
+    "title": "Mosaddegh Says \u201cMine!\u201d",
+    "summary": "Mosaddegh Says \u201cMine!\u201d",
+    "importance": 1,
+    "gemShape": "star",
+    "sceneRef": "iran-oil-nationalised",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "operation-ajax-memes",
+    "dateIso": "1953-08-19",
+    "title": "CIA/MI6 Coup Livestream",
+    "summary": "CIA/MI6 Coup Livestream",
+    "importance": 1,
+    "gemShape": "star",
+    "sceneRef": "operation-ajax-memes",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "whisky-plot-at-club",
+    "dateIso": "1953-08-18",
+    "title": "Shaban Bimok Wrestler\u2011Hire",
+    "summary": "Shaban Bimok Wrestler\u2011Hire",
+    "importance": 0,
+    "gemShape": "heptagon",
+    "sceneRef": "whisky-plot-at-club",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "mosaddegh-house-arrest",
+    "dateIso": "1953-08-20",
+    "title": "Democracy Time\u2011out",
+    "summary": "Democracy Time\u2011out",
+    "importance": 0,
+    "gemShape": "pentagon",
+    "sceneRef": "mosaddegh-house-arrest",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "white-revolution-1963",
+    "dateIso": "1963-01-26",
+    "title": "Shah Reform Patch Notes",
+    "summary": "Shah Reform Patch Notes",
+    "importance": 0,
+    "gemShape": "heptagon",
+    "sceneRef": "white-revolution-1963",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "hippies-in-iran-1970s",
+    "dateIso": "1971",
+    "title": "Woodstock to Persepolis",
+    "summary": "Woodstock to Persepolis",
+    "importance": 0,
+    "gemShape": "heptagon",
+    "sceneRef": "hippies-in-iran-1970s",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "islamic-revolution",
+    "dateIso": "1979-02-11",
+    "title": "Beardo\u00a02.0 Launch",
+    "summary": "Beardo\u00a02.0 Launch",
+    "importance": 1,
+    "gemShape": "star",
+    "sceneRef": "islamic-revolution",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "us-embassy-hostage",
+    "dateIso": "1979-11-04",
+    "title": "444\u2011Day Unboxing Stream",
+    "summary": "444\u2011Day Unboxing Stream",
+    "importance": 1,
+    "gemShape": "star",
+    "sceneRef": "us-embassy-hostage",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "iraq-invades-iran",
+    "dateIso": "1980-09-22",
+    "title": "Saddam 8\u2011Bit Side\u2011Scroller",
+    "summary": "Saddam 8\u2011Bit Side\u2011Scroller",
+    "importance": 1,
+    "gemShape": "star",
+    "sceneRef": "iraq-invades-iran",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "iran-contra-gate",
+    "dateIso": "1986-11-05",
+    "title": "Secret Arms eBay Listing",
+    "summary": "Secret Arms eBay Listing",
+    "importance": 0,
+    "gemShape": "pentagon",
+    "sceneRef": "iran-contra-gate",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "khobar-towers-boom",
+    "dateIso": "1996-06-25",
+    "title": "Hotel \u201cRoom\u2011Service\u201d Kaboom",
+    "summary": "Hotel \u201cRoom\u2011Service\u201d Kaboom",
+    "importance": 0,
+    "gemShape": "heptagon",
+    "sceneRef": "khobar-towers-boom",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "axis-of-evil",
+    "dateIso": "2002-01-29",
+    "title": "Label That Launched Memes",
+    "summary": "Label That Launched Memes",
+    "importance": 1,
+    "gemShape": "star",
+    "sceneRef": "axis-of-evil",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "green-movement",
+    "dateIso": "2009-06-20",
+    "title": "Election Rage TikTok\u00a0\u03b1",
+    "summary": "Election Rage TikTok\u00a0\u03b1",
+    "importance": 1,
+    "gemShape": "star",
+    "sceneRef": "green-movement",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "stuxnet-leak",
+    "dateIso": "2010-07-15",
+    "title": "Rickroll Centrifuges",
+    "summary": "Rickroll Centrifuges",
+    "importance": 1,
+    "gemShape": "star",
+    "sceneRef": "stuxnet-leak",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
     ]
   },
   {
     "id": "jcpoa-sign",
     "dateIso": "2015-07-14",
-    "title": "JCPOA Nuclear Deal Signed",
-    "summary": "Iran and world powers sign nuclear accord after years of negotiation.",
+    "title": "Nuclear \u201cSwipe\u00a0Right\u201d Deal",
+    "summary": "Nuclear \u201cSwipe\u00a0Right\u201d Deal",
     "importance": 1,
     "gemShape": "star",
     "sceneRef": "jcpoa-sign",
     "citations": [
-      {"url": "https://en.wikipedia.org/wiki/Joint_Comprehensive_Plan_of_Action", "label": "Wikipedia"}
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "trump-withdraw",
+    "dateIso": "2018-05-08",
+    "title": "\u201cIt\u2019s Not Me, It\u2019s JCPOA\u201d",
+    "summary": "\u201cIt\u2019s Not Me, It\u2019s JCPOA\u201d",
+    "importance": 0,
+    "gemShape": "pentagon",
+    "sceneRef": "trump-withdraw",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
     ]
   },
   {
     "id": "soleimani-drone",
     "dateIso": "2020-01-03",
-    "title": "Soleimani Drone Strike",
-    "summary": "US drone strike kills Iranian General Qasem Soleimani near Baghdad.",
+    "title": "Latte\u2011Powered Reaper",
+    "summary": "Latte\u2011Powered Reaper",
     "importance": 1,
     "gemShape": "star",
     "sceneRef": "soleimani-drone",
     "citations": [
-      {"url": "https://en.wikipedia.org/wiki/Qasem_Soleimani", "label": "Wikipedia"}
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
     ]
   },
   {
     "id": "mahsa-amini",
     "dateIso": "2022-09-16",
-    "title": "Mahsa Amini Protests",
-    "summary": "Death of Mahsa Amini sparks nationwide protests in Iran.",
+    "title": "Woman\u2011Life\u2011Freedom Viral",
+    "summary": "Woman\u2011Life\u2011Freedom Viral",
     "importance": 1,
     "gemShape": "star",
     "sceneRef": "mahsa-amini",
     "citations": [
-      {"url": "https://en.wikipedia.org/wiki/Mahsa_Amini", "label": "Wikipedia"}
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "iran-israel-missile-swap",
+    "dateIso": "2025-04-25",
+    "title": "Shahed vs Iron\u00a0Dome",
+    "summary": "Shahed vs Iron\u00a0Dome",
+    "importance": 1,
+    "gemShape": "star",
+    "sceneRef": "iran-israel-missile-swap",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "laser-ironbeam-demo",
+    "dateIso": "2025-05-11",
+    "title": "Kickstarter Laser Demo",
+    "summary": "Kickstarter Laser Demo",
+    "importance": 0,
+    "gemShape": "heptagon",
+    "sceneRef": "laser-ironbeam-demo",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
+    ]
+  },
+  {
+    "id": "woman-life-freedom-edm",
+    "dateIso": "2025-06-05",
+    "title": "Protest\u00a0Chant EDM Remix",
+    "summary": "Protest\u00a0Chant EDM Remix",
+    "importance": 0,
+    "gemShape": "pentagon",
+    "sceneRef": "woman-life-freedom-edm",
+    "citations": [
+      {
+        "url": "https://example.com",
+        "label": "Example"
+      }
     ]
   }
 ]
